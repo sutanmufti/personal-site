@@ -11,12 +11,14 @@
 }
 .carousel-area {
     background-image: url(./bg-carousel.png);
-    background-size: 50% 70%;
+    background-size: 40%;
     background-repeat: no-repeat;
     background-position-x: 20%;
     background-position-y: 20%;
+}
 
-    
-
-
+.carousel-div {
+    width:100we;
+    height:50vh;
+    padding-bottom: 45%
 }
