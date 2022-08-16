@@ -1,0 +1,22 @@
+.bg-blue {
+    
+    background: -webkit-gradient(linear, left top, right top, from(#3d3bb8), to(#163cc7));
+    background: linear-gradient(to right, #864ddf, #071750);
+    
+}
+
+.carousel-bg {
+    background: linear-gradient(to right, #864ddf, #071750);
+
+}
+.carousel-area {
+    background-image: url(./bg-carousel.png);
+    background-size: 50% 70%;
+    background-repeat: no-repeat;
+    background-position-x: 20%;
+    background-position-y: 20%;
+
+    
+
+
+}
